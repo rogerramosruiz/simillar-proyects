@@ -1,0 +1,6 @@
+fastapi
+psycopg2
+PyPDF2
+uvicorn
+sentence_transformers
+python-multipart

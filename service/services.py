@@ -1,0 +1,7 @@
+PUBLIC_DIR='upload/files'
+FILENAME_SIZE=10
+DB_HOST="localhost"
+DB_NAME="files"
+DB_USER="postgres"
+DB_PASSWORD=123456
+DB_PORT=5432
